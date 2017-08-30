@@ -1,0 +1,20 @@
+body {
+    background-color:#6da2ff;
+}
+
+h1 {
+   color:#ffffff;
+   font-family: 'Bad Script', cursive; 
+   font-size:60px;
+   text-align:center;
+}
+
+p  {
+   color:#e82020;S
+   font-family: Georgia, sans-serif;
+   font-size:30px;
+}
+
+img {
+    max-width: 100%
+}
